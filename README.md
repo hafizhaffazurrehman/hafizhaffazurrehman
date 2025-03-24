@@ -15,13 +15,12 @@
 ---
 
 ### 📌 Projects  
-🔹 [Project Name](https://github.com/your-username/project-repo) - A short project description.  
-🔹 [Another Project](https://github.com/your-username/project-repo) - Another brief description.  
+🔹 [Sales Management System](https://github.com/hafizhaffazurrehman/salemanagementsystem) - Sales Management System 
 
 ---
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/haffaz-ur-rehman-hafiz-825a91357/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/haffaz-ur-rehman-hafiz-825a91357/)  
 
 ---
 
