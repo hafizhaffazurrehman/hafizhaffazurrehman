@@ -1,16 +1,33 @@
-## Hi there 👋
+### 👋 Hey there, I'm Hafiz Haffaz ur Rehman!  
 
-<!--
-**hafizhaffazurrehman/hafizhaffazurrehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science Student | Aspiring Software Developer**  
+📚 Studying at **Comsats University Islamabad, Wah Campus**  
+🚀 Passionate about **Software Development, Open Source, and Problem-Solving**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack  
+- **Languages:** Java, C++, Python  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Tools & Platforms:** Git, GitHub 
+- **Coursework:** Operating Systems, Theory of Programming Languages  
+
+---
+
+### 📌 Projects  
+🔹 [Project Name](https://github.com/your-username/project-repo) - A short project description.  
+🔹 [Another Project](https://github.com/your-username/project-repo) - Another brief description.  
+
+---
+
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)  
+
+---
+
+🚀 **Currently Learning:** Advanced Data Structures & Algorithms  
+📌 **Looking for:** Internship opportunities in Software Development  
+
+---
+
+💡 *"Code, Learn, Innovate, Repeat!"*  
